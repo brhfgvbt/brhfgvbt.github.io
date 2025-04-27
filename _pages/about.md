@@ -1,3 +1,13 @@
+---
+permalink：/
+title："About me"
+excerpt："About me"
+author_profile：true
+redirect_from：
+  - /about/
+  - /about.html
+---
+
 Xcfang | CS Undergrad & AI Enthusiast 🚀
 First-year Computer Science student at Zhejiang Gongshang University, diving deep into algorithms and the fascinating world of large language models (LLMs) and artificial intelligence.
 
